@@ -73,6 +73,10 @@ select#select-godiste{
     }
 }
 
+#cenaInputOd,#cenaInputDo{
+    width: 30%;
+}
+
 @media only screen and (max-width: 480px){
     #logo h1{
         text-align: center;
